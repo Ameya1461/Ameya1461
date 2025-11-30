@@ -50,7 +50,7 @@ Always curious, always learning, and always open to collaboration in **software 
 
 🌐 **Portfolio:** [personal-portfolio-website-react.vercel.app](https://personal-portfolio-website-react.vercel.app/)  
 💻 **GitHub:** [github.com/Ameya1461](https://github.com/Ameya1461)  
-💼 **LinkedIn:** *https://www.linkedin.com/in/ameya-hujare-249048221/*  
+💼 **LinkedIn:** *https://www.linkedin.com/in/ameya-hujare/*  
 ✉️ **Email:** *ameya.hujare@gmail.com*  
 
 ---
