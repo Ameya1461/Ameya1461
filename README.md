@@ -18,7 +18,7 @@ I thrive at the intersection of **AI, data analytics, and full-stack development
 ### 🛠 **Tech Stack**
 
 **Languages:** Python, C#, JavaScript, TypeScript, SQL, C++, Java  
-**Frameworks:** .NET Core, React.js, Angular, Flask, Node.js  
+**Frameworks:** FastAPI, .NET Core, React.js, Angular, Flask, Node.js  
 **Databases:** PostgreSQL, SQL Server, MongoDB, MySQL  
 **Tools & Cloud:** Git, GitLab CI/CD, Docker, AWS, SSRS, Power BI  
 **Concepts:** Data Analytics, AI/ML, API Design, Cloud Architecture, Web Security  
